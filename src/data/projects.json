@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Movie App",
+    "imageSrc": "projects/movie.png",
+    "description": "This is a project that fetches the latest movies api",
+    "skills": ["React", "Tailwind css", "Api calling"],
+    "demo": "https://chipper-croquembouche-32e93e.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "React chomp form",
+    "imageSrc": "projects/form.png",
+    "description": "This is a project form that eats your text",
+    "skills": ["React", "vercel", "Sass"],
+    "demo": "https://vercel.com/paritoshrawat/form",
+    "source": "https://github.com/paritoshrawat/form"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/currency.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://currencyconverter-ashen.vercel.app/",
+    "source": "https://github.com/paritoshrawat/currencyconverter"
+  }
+]
