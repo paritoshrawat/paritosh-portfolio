@@ -8,12 +8,20 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "React chomp form",
-    "imageSrc": "projects/form.png",
-    "description": "This is a project form that eats your text",
-    "skills": ["React", "vercel", "Sass"],
-    "demo": "https://vercel.com/paritoshrawat/form",
-    "source": "https://github.com/paritoshrawat/form"
+    "title": "Mern chat app",
+    "imageSrc": "projects/chat.PNG",
+    "description": "This is a fulstack chat app",
+    "skills": [
+      "React",
+      "vercel",
+      "Sass",
+      "socket.io",
+      "mongodb",
+      "Express",
+      "typescript"
+    ],
+    "demo": "https://chatapp-frontend-tau-eight.vercel.app/",
+    "source": "https://github.com/paritoshrawat/chatapp_frontend"
   },
   {
     "title": "Project C",
